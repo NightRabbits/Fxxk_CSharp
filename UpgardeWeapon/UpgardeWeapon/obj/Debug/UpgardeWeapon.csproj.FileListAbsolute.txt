@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\bin\Debug\UpgardeWeapon.exe.config
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\bin\Debug\UpgardeWeapon.exe
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\bin\Debug\UpgardeWeapon.pdb
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\obj\Debug\UpgardeWeapon.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\obj\Debug\UpgardeWeapon.Form1.resources
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\obj\Debug\UpgardeWeapon.Properties.Resources.resources
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\obj\Debug\UpgardeWeapon.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\obj\Debug\UpgardeWeapon.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\obj\Debug\UpgardeWeapon.exe
+C:\Users\USER\source\repos\UpgardeWeapon\UpgardeWeapon\obj\Debug\UpgardeWeapon.pdb
